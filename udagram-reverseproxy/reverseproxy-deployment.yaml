@@ -15,7 +15,7 @@ spec:
         app: reverseproxy
     spec:
       containers:
-        - image: adewaleda/reverseproxy:v2
+        - image: adewaleda/reverseproxy:v9
           name: reverseproxy
           imagePullPolicy: Always
           resources:

@@ -15,7 +15,7 @@ spec:
         app: udagram-frontend
     spec:
       containers:
-        - image: adewaleda/udagram-frontend:v2
+        - image: adewaleda/udagram-frontend:v9
           name: udagram-frontend
           ports:
             - containerPort: 8080
