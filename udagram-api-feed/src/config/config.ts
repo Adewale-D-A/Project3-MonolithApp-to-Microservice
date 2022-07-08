@@ -7,7 +7,7 @@ export const config = {
   aws_region: "us-east-1",
   aws_profile: "default",
   aws_media_bucket: "udacityproject3bucket",
-  url: "http://locahost:8100",
+  url: "http://localhost:8080",
   jwt: {
     secret: "testing",
   },
